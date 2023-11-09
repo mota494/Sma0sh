@@ -1,5 +1,4 @@
-<a> <img src="https://i.pinimg.com/originals/75/17/ec/7517ec4812af7eaa7b36b929dc045d95.gif" width="100%" height="350px" /> </a>
-|---|
+<a> <img src="https://github.com/Sma0sh/Sma0sh/blob/main/lain-sad%20(1).gif" width="100%" height="300px" /> </a>
 ### Well, Hello i guess 👋
 <p float="left">
    <a align="right"> 
