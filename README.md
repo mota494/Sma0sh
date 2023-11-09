@@ -1,6 +1,6 @@
 ### Well, Hello i guess 👋
 <p float="left" align="center">
-   <p> 
+   <a> 
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently learning ... <br>
 - 👯 I’m looking to collaborate on ... <br>
@@ -8,27 +8,13 @@
 - 💬 Ask me about ... <br>
 - 📫 How to reach me: ... <br>
 - ⚡ Fun fact: ...
-   </p>
+   </a>
   &nbsp;
   <H2>My 42 Progress <img src="" /></H2>
   <a href="https://github.com/oakoudad/badge42"> 
     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
    </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 <table>
  <tr>
