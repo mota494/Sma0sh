@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
    </a>
   &nbsp;
-  <H2>My 42 Progress <img width="30px" height="30px" src="https://i.giphy.com/media/ZnYDpTpDKrhf4RwQ7R/giphy.webp"/></H2>
+  <H2>My 42 Progress <img width="50px" height="50px" src="https://i.giphy.com/media/ZnYDpTpDKrhf4RwQ7R/giphy.webp"/></H2>
   <a href="https://github.com/oakoudad/badge42"> 
     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
    </a>
