@@ -1,9 +1,28 @@
-<html>
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  
+### Well, Hello i guess 👋
+<p float="left" align="center">
+   <a href="https://github.com/oakoudad/badge42"> 
+    <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
+   </a>
+  &nbsp;
+  <a href="https://github.com/oakoudad/badge42"> 
+    <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
+   </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <table>
  <tr>
   <td align="center"> Hello There 👋 </td>
@@ -30,7 +49,7 @@
 </body>
   
 </html>
-
+-->
 <!--
 **Sma0sh/Sma0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
