@@ -1,6 +1,6 @@
 ### Well, Hello i guess 👋
 <p float="left" align="center">
-   <a> 
+   <p> 
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently learning ... <br>
 - 👯 I’m looking to collaborate on ... <br>
@@ -9,7 +9,7 @@
 - 📫 How to reach me: ... <br>
 - 😄 Pronouns: ... <br>
 - ⚡ Fun fact: ...
-   </a>
+   </p>
   &nbsp;
   <a href="https://github.com/oakoudad/badge42"> 
     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
