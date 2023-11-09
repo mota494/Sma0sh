@@ -1,14 +1,7 @@
 <html>
-  
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-
 <body>
   
-<table>
+<table border="0px">
  <tr>
   <td> 42 Progress</td>
  </tr>
