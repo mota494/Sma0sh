@@ -1,6 +1,6 @@
 ### Well, Hello i guess 👋
-<p float="left" align="center">
-   <a> 
+<p float="left">
+   <a align="right"> 
 - 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently learning ... <br>
 - 👯 I’m looking to collaborate on ... <br>
