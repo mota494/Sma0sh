@@ -1,11 +1,10 @@
 ### Well, Hello i guess 👋
 <p float="left" align="center">
    <a> 
-    <p>🔭 I’m currently working on 42 Projects.<br></p>
-    <p>🌱 I’m currently learning C.<br></p>
-    <p>🤔 I’m looking for help with get_next_line.<br></p>
-    <p>📫 How to reach me: You don't (at the moment!!!).<br></p>
-    <H2>🥴</H2>
+    🔭 I’m currently working on 42 Projects.<br>
+    🌱 I’m currently learning C.<br>
+    🤔 I’m looking for help with get_next_line.<br>
+    📫 How to reach me: You don't (at the moment!!!).<br>
    </a>
   &nbsp;
   <a href="https://github.com/oakoudad/badge42"> 
