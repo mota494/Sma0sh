@@ -1,5 +1,5 @@
 ### Well, Hello i guess 👋
-![](https://github.com/Sma0sh/download.gif)
+![](https://github.com/Sma0sh/d7pmz9y-67af6a82-c746-4904-8e08-90ce1113c6a0.gif)
 <p float="left">
    <a align="right"> 
 - 🔭 I’m currently working on ... <br>
