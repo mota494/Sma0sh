@@ -1,9 +1,11 @@
 
 ### Hi there 👋  
-adada
-adada
-dadada
-daada
+adada <\b>
+adada <\b>
+adada <\b>
+adada <\b>
+adada <\b>
+adada <\b>
 <p align="right"> 
  <a href="https://github.com/oakoudad/badge42"> 
   <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
