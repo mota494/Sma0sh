@@ -1,7 +1,7 @@
 <html>
 <body>
   
-<table border="0">
+<table border="0" bgcolor="#008080">
  <tr>
   <td align="center"> 42 Progress </td>
  </tr>
