@@ -1,10 +1,10 @@
-| <p color="navy"> 42 Progress </p> |
-| ------------- |
-| <p align="right"> |
-|   <a href="https://github.com/oakoudad/badge42"> |
-|     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> |
-|   </a> |
-| </p> |
+||<p color="navy"> 42 Progress </p> |
+|| ------------- |
+|### Hi there 👋 | <p align="right"> |
+| |   <a href="https://github.com/oakoudad/badge42"> |
+| |     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> |
+| |   </a> |
+| | </p> |
 
 ### Hi there 👋
 
