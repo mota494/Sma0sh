@@ -1,5 +1,4 @@
 ### Well, Hello i guess 👋
-![](https://64.media.tumblr.com/tumblr_m3b0ghyVOM1qg6rkio1_500.gifv)
 <p float="left">
    <a align="right"> 
 - 🔭 I’m currently working on ... <br>
@@ -11,7 +10,7 @@
 - ⚡ Fun fact: ...
    </a>
   &nbsp;
-  <H2>My 42 Progress</H2>
+  <H2>My 42 Progress ![](https://64.media.tumblr.com/tumblr_m3b0ghyVOM1qg6rkio1_500.gifv) </H2>
   <a href="https://github.com/oakoudad/badge42"> 
     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
    </a>
