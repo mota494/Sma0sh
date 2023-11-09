@@ -1,4 +1,4 @@
-<a> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9be08b8f-1ef7-4ded-bfa0-db000e239856/d7pmz9y-67af6a82-c746-4904-8e08-90ce1113c6a0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliZTA4YjhmLTFlZjctNGRlZC1iZmEwLWRiMDAwZTIzOTg1NlwvZDdwbXo5eS02N2FmNmE4Mi1jNzQ2LTQ5MDQtOGUwOC05MGNlMTExM2M2YTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y2xME_x0LvxA2kQLAzkDc_MQSoyOWh0fiNyHTvGDCz4" width="50%" height="250px"/> </a>
+<a> <img src="https://i.pinimg.com/originals/75/17/ec/7517ec4812af7eaa7b36b929dc045d95.gif" width="100%" height="250px"/> </a>
 ### Well, Hello i guess 👋
 <p float="left">
    <a align="right"> 
