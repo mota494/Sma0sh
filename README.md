@@ -1,4 +1,4 @@
-| 42 Proguess  |
+| <p color="navy"> 42 Progress </p> |
 | ------------- |
 | <p align="right"> |
 |   <a href="https://github.com/oakoudad/badge42"> |
