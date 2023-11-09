@@ -1,16 +1,15 @@
 ### Well, Hello i guess 👋
 <p float="left">
    <a align="right"> 
-- 🔭 I’m currently working on ... <br>
-- 🌱 I’m currently learning ... <br>
-- 👯 I’m looking to collaborate on ... <br>
-- 🤔 I’m looking for help with ... <br>
-- 💬 Ask me about ... <br>
-- 📫 How to reach me: ... <br>
-- ⚡ Fun fact: ...
+- 🌀 I’m currently working on 42 projects<br>
+- 🌀 I’m currently learning C.<br>
+- 🌀 I’m looking for help with get_next_line.<br>
+- 🌀 Ask me about anything and evrything.<br>
+- 🌀 How to reach me: At the moment you can't.<br>
+- 🌀 Fun fact: Dolphins have elbows.
    </a>
   &nbsp;
-  <H2>My 42 Progress <img width="50px" height="50px" src="https://i.giphy.com/media/ZnYDpTpDKrhf4RwQ7R/giphy.webp"/></H2>
+  <H1>My 42 Progress !<img width="30px" height="40px" src="https://i.giphy.com/media/ZnYDpTpDKrhf4RwQ7R/giphy.webp"/>!</H1>
   <a href="https://github.com/oakoudad/badge42"> 
     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
    </a>
