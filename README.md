@@ -1,11 +1,19 @@
 <html>
 <body>
   
-<table border="0" bgcolor="#008080">
+<table>
  <tr>
+  <td align="center"> Hello There 👋 </td>
   <td align="center"> 42 Progress </td>
  </tr>
  <tr>
+  <td>
+    <p>🔭 I’m currently working on 42 Projects.<br></p>
+    <p>🌱 I’m currently learning C.<br></p>
+    <p>🤔 I’m looking for help with get_next_line.<br></p>
+    <p>📫 How to reach me: You don't (at the moment!!!).<br></p>
+    <H2>🥴</H2>
+  </td>
   <td>
    <p align="right"> 
     <a href="https://github.com/oakoudad/badge42"> 
