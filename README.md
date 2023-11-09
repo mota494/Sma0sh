@@ -1,9 +1,13 @@
+<html>
+  
 <style>
 table, th, td {
-  border:0px;
+  border:1px solid black;
 }
 </style>
 
+<body>
+  
 <table>
  <tr>
   <td> 42 Progress</td>
@@ -18,6 +22,10 @@ table, th, td {
   </td>
  </tr>
 </table>
+  
+</body>
+  
+</html>
 
 <!--
 **Sma0sh/Sma0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
