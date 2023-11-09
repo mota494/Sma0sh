@@ -1,3 +1,9 @@
+<style>
+table, th, td {
+  border:0px;
+}
+</style>
+
 <table>
  <tr>
   <td> 42 Progress</td>
