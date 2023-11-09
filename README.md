@@ -1,9 +1,11 @@
 
-### Hi there 👋  <p align="right"> 
-|                   <a href="https://github.com/oakoudad/badge42"> 
-                     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
-                   </a> 
-                 </p> 
+### Hi there 👋  
+<p align="right"> 
+ <a href="https://github.com/oakoudad/badge42"> 
+  <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
+ </a> 
+</p>
+### Bye there 👋
 
 <!--
 **Sma0sh/Sma0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
