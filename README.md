@@ -3,7 +3,7 @@
   
 <table border="0px">
  <tr>
-  <td> 42 Progress</td>
+  <td align="center"> 42 Progress </td>
  </tr>
  <tr>
   <td>
