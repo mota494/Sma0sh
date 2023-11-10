@@ -5,18 +5,34 @@
 - 🌀 I’m currently working on 42 projects<br>
 - 🌀 I’m currently learning C.<br>
 - 🌀 I’m looking for help with get_next_line. <br>
-- 🌀 Ask me about anything and evrything.<br>
-- 🌀 How to reach me: At the moment you can't.<br>
+- 🌀 Ask me about anything and everything.<br>
+- 🌀 How to reach me: For now only from slack diteixei and discord Smash_0069#0000.<br>
 - 🌀 Fun fact: Dolphins have elbows.
    </a>
   &nbsp;
-  <H1>My 42 Progress !<img width="40px" height="50px" src="https://i.giphy.com/media/ZnYDpTpDKrhf4RwQ7R/giphy.webp"/>!</H1>
+  <H1>My 42 Progress 🥴!</H1>
+   <!--
+   <table>
+      <tr>
+         <td>Projects</td>
+      </tr>
+      <tr>
+         <td>Rank 00 - libft<td/>
+         <td>125/100</td>
+      </tr>
+      <tr>
+          <td>Rank 01 - ft_printf<td/>
+          <td>100/100</td>
+      </tr>
+   </table>
+   -->
   <a href="https://github.com/oakoudad/badge42"> 
     <img src="https://badge.mediaplus.ma/darkblue/diteixei?UM6P=off" alt="diteixei's 42 stats" /> 
-   </a>
+  </a>
 </p>
 
 <!--
+<img width="40px" height="50px" src="https://i.giphy.com/media/ZnYDpTpDKrhf4RwQ7R/giphy.webp"/>
 <table>
  <tr>
   <td align="center"> Hello There 👋 </td>
@@ -43,7 +59,6 @@
 </body>
   
 </html>
-<!--
 **Sma0sh/Sma0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
