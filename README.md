@@ -1,4 +1,4 @@
-<a> <img src="https://i.pinimg.com/originals/53/78/af/5378afc474a5702cdacf5cdbbb960c49.gif" width="100%" height="300px" /> </a>
+<a> <img src="https://i.pinimg.com/originals/53/78/af/5378afc474a5702cdacf5cdbbb960c49.gif" width="100%" height="275px" /> </a>
 ### Well, Hello i guess 👋
 <p float="left">
    <a align="right"> 
