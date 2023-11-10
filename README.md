@@ -1,10 +1,10 @@
-<a> <img src="https://github.com/Sma0sh/Sma0sh/blob/main/lain-sad%20(1).gif" width="100%" height="300px" /> </a>
+<a> <img src="https://i.pinimg.com/originals/53/78/af/5378afc474a5702cdacf5cdbbb960c49.gif" width="100%" height="300px" /> </a>
 ### Well, Hello i guess 👋
 <p float="left">
    <a align="right"> 
 - 🌀 I’m currently working on 42 projects<br>
 - 🌀 I’m currently learning C.<br>
-- 🌀 I’m looking for help with get_next_line.<br>
+- 🌀 I’m looking for help with get_next_line. <br>
 - 🌀 Ask me about anything and evrything.<br>
 - 🌀 How to reach me: At the moment you can't.<br>
 - 🌀 Fun fact: Dolphins have elbows.
