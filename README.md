@@ -10,7 +10,7 @@
 - 🌀 Fun fact: Dolphins have elbows.
    </a>
   &nbsp;
-  <H1>My 42 Progress 🥴!</H1>
+  <H1>My 42 Progress !</H1>
    <!--
    <table>
       <tr>
