@@ -2,7 +2,6 @@
 ### Well, Hello i guess 👋
 <p float="left">
    <a align="right"> 
-- 🌀 I’m currently working on 42 projects<br>
 - 🌀 I’m currently learning C.<br>
 - 🌀 I’m looking for help with get_next_line. <br>
 - 🌀 Ask me about anything and everything.<br>
