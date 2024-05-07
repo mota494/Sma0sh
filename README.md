@@ -6,7 +6,7 @@
 - 🌀 I’m currently learning C.<br>
 - 🌀 I’m looking for help with get_next_line. <br>
 - 🌀 Ask me about anything and everything.<br>
-- 🌀 How to reach me: For now only from slack diteixei and discord Smash_0069#0000.<br>
+- 🌀 How to reach me: For now only from slack diteixei and discord Smash_0069.<br>
 - 🌀 Fun fact: Dolphins have elbows.
    </a>
   &nbsp;
