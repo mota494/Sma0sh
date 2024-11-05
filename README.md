@@ -42,7 +42,7 @@
   <td>
     <p>🔭 I’m currently working on 42 Projects.<br></p>
     <p>🌱 I’m currently learning C.<br></p>
-    <p>🤔 I’m looking for help with get_next_line.<br></p>
+    <p>🤔 I’m looking for help with philosophers<br></p>
     <p>📫 How to reach me: You don't (at the moment!!!).<br></p>
     <H2>🥴</H2>
   </td>
